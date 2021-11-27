@@ -1,0 +1,26 @@
+{
+  "name": "bootstrap-v5",
+  "version": "1.0.0",
+  "description": "Portfolio bootstrap sass",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss:assets/css"
+  },
+  "keywords": [
+    "bootstrap",
+    "bootstrap-v5",
+    "sass",
+    "portfolio"
+  ],
+  "author": "Jake Dombrowski AKA DriftiLab",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.43.5"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "autoprefixer": "^10.4.0",
+    "bootstrap": "^5.1.3",
+    "postcss-cli": "^9.0.2"
+  }
+}
