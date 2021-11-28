@@ -17,6 +17,7 @@
         right: 5px;
         transform: translateY(-50%);
         border-radius: 50%;
+        size: relative;
 
         i{
             color: $white;
@@ -24,6 +25,7 @@
             line-height: 2.5rem;
             letter-spacing: 1rem;
             transform: translateX(.75rem);
+            size: relative;
         }
     }
     &:hover{

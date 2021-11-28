@@ -11145,6 +11145,7 @@ textarea.form-control-lg {
   right: 5px;
   transform: translateY(-50%);
   border-radius: 50%;
+  size: relative;
 }
 .btn-rounded span i {
   color: #fff;
@@ -11152,6 +11153,7 @@ textarea.form-control-lg {
   line-height: 2.5rem;
   letter-spacing: 1rem;
   transform: translateX(0.75rem);
+  size: relative;
 }
 .btn-rounded:hover {
   background: linear-gradient(to right, rgba(172, 99, 32, 0.95), rgba(161, 59, 131, 0.95));
